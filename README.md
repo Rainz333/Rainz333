@@ -9,8 +9,6 @@
 
 - 💬 Pode me perguntar sobre: **arte no geral, animação, HTML e filosofia**
 
-- 📫 Formas de contato **pelos links abaixo mesmo**
-
 - 📄 Meu currículo e habilidades estão no: [https://www.linkedin.com/in/itrainz/](https://www.linkedin.com/in/itrainz/)
 
 - ⚡ Fato Curioso **O personagem da minha foto de perfil tem o mesmo nome que eu!**
